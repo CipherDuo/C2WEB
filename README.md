@@ -1,6 +1,6 @@
 # ReadMe.md
 
-![1_qY9Obx76yR7FCPWo1MmH1w.png](ReadMe%20md%203ee3f/1_qY9Obx76yR7FCPWo1MmH1w.png)
+![logo.png](logo.png)
 
 Our WebGL Template for Unity.
 
